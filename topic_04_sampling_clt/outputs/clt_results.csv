@@ -1,0 +1,4 @@
+n,mean_of_sample_means,empirical_SE,theoretical_SE,skewness,shapiro_p
+5,9.9638,4.4903,4.4958,0.9112,0.0
+30,10.0159,1.8288,1.8354,0.3621,0.0
+100,10.0486,1.0233,1.0053,0.2181,0.0
