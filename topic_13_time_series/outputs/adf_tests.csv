@@ -1,0 +1,5 @@
+series,adf_statistic,p_value,lags_used,critical_5pct,conclusion
+Original,-0.3789,0.9136,12,-2.889,Non-stationary
+First difference,-5.8826,0.0,11,-2.889,Stationary
+Seasonal difference (lag 12),-3.3842,0.0115,12,-2.8925,Stationary
+Seasonal + first difference,-5.2571,0.0,12,-2.8928,Stationary

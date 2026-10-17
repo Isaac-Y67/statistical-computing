@@ -1,0 +1,5 @@
+method,MAE,RMSE,MAPE_pct
+Naive,21.058,27.81,5.114
+Seasonal naive,27.283,29.307,6.454
+Holt-Winters,6.483,8.321,1.501
+"SARIMA(1,1,1)(0,1,1)12",7.339,9.551,1.698
