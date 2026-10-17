@@ -1,0 +1,5 @@
+method,shape,scale
+True,3.0,2.0
+BFGS on log-likelihood,3.1539,1.9047
+scipy gamma.fit,3.1539,1.9047
+Method of moments,3.0378,1.9775

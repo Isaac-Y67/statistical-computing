@@ -20,3 +20,4 @@ Group work repository. All implementations are in Python.
 | 8 | Linear regression and least squares | topic_08_linear_regression/ |
 | 9 | Matrix algebra in statistics | topic_09_matrix_algebra/ |
 | 10 | Eigenvalues, eigenvectors and PCA | topic_10_eigen_pca/ |
+| 11 | Numerical optimization | topic_11_numerical_optimization/ |
