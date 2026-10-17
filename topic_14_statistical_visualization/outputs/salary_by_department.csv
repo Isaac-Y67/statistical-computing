@@ -1,0 +1,5 @@
+department,count,mean,median,std,ci_half_width
+Sales,121,50873.6,48600.0,10904.2,1962.7
+Engineering,123,68643.9,64400.0,16896.0,3015.9
+Marketing,81,52579.0,50500.0,10198.2,2255.0
+Support,75,42762.7,41400.0,7868.6,1810.4

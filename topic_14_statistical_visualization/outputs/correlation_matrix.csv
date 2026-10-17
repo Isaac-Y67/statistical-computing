@@ -1,0 +1,5 @@
+,experience_years,salary,log_salary,performance_score
+experience_years,1.0,0.6462,0.6114,0.4057
+salary,0.6462,1.0,0.9784,0.2508
+log_salary,0.6114,0.9784,1.0,0.2342
+performance_score,0.4057,0.2508,0.2342,1.0

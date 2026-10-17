@@ -23,3 +23,4 @@ Group work repository. All implementations are in Python.
 | 11 | Numerical optimization | topic_11_numerical_optimization/ |
 | 12 | Random numbers and Monte Carlo methods | topic_12_random_monte_carlo/ |
 | 13 | Time-series analysis | topic_13_time_series/ |
+| 14 | Statistical data visualization | topic_14_statistical_visualization/ |
