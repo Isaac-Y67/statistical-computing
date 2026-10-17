@@ -1,0 +1,6 @@
+,study_hours,sleep_hours,attendance_pct,screen_hours,exam_score
+study_hours,1.0,-0.0792,0.5041,-0.025,0.7903
+sleep_hours,-0.0792,1.0,-0.0122,-0.0209,0.0217
+attendance_pct,0.5041,-0.0122,1.0,0.0595,0.4795
+screen_hours,-0.025,-0.0209,0.0595,1.0,-0.1839
+exam_score,0.7903,0.0217,0.4795,-0.1839,1.0

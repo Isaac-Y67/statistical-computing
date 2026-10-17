@@ -16,3 +16,4 @@ Group work repository. All implementations are in Python.
 | 4 | Sampling distributions and CLT | topic_04_sampling_clt/ |
 | 5 | Confidence intervals | topic_05_confidence_intervals/ |
 | 6 | Hypothesis testing | topic_06_hypothesis_testing/ |
+| 7 | Correlation and covariance | topic_07_correlation_covariance/ |
