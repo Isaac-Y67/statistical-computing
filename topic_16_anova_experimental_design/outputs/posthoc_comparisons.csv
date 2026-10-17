@@ -1,0 +1,7 @@
+comparison,difference,unadjusted_p,bonferroni_p,tukey_p,tukey_significant
+Fert A - Control,3.173333,0.019855,0.119128,0.0892,False
+Fert B - Control,6.593333,6e-06,3.8e-05,0.0,True
+Fert C - Control,5.433333,0.000132,0.000795,0.0007,True
+Fert B - Fert A,3.42,0.012397,0.074384,0.0582,False
+Fert C - Fert A,2.26,0.093241,0.559447,0.3294,False
+Fert C - Fert B,-1.16,0.384508,1.0,0.817,False

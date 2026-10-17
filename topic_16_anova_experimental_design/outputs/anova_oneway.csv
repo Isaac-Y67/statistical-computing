@@ -1,0 +1,4 @@
+,df,sum_sq,mean_sq,F,p_value
+Between treatments,3,379.548,126.516,9.630806,3.2e-05
+Within (error),56,735.649333,13.136595,,
+Total,59,1115.197333,,,

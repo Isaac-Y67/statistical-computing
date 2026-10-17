@@ -1,0 +1,7 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+Control,Fert A,3.1733,0.0892,-0.331,6.6777,False
+Control,Fert B,6.5933,0.0,3.089,10.0977,True
+Control,Fert C,5.4333,0.0007,1.929,8.9377,True
+Fert A,Fert B,3.42,0.0582,-0.0844,6.9244,False
+Fert A,Fert C,2.26,0.3294,-1.2444,5.7644,False
+Fert B,Fert C,-1.16,0.817,-4.6644,2.3444,False

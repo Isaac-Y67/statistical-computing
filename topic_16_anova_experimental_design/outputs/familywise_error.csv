@@ -1,0 +1,4 @@
+procedure,false_positive_rate
+6 unadjusted t-tests (any significant),0.1946
+ANOVA F-test,0.048
+Tukey HSD (any significant),0.046

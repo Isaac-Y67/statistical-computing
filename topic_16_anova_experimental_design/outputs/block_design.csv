@@ -1,0 +1,6 @@
+,,sum_sq,df,F,PR(>F)
+with_blocks,C(variety),68.1375,3.0,8.054078,0.003311
+with_blocks,C(block),429.392,4.0,38.066667,1e-06
+with_blocks,Residual,33.84,12.0,,
+ignoring_blocks,C(variety),68.1375,3.0,0.784488,0.519884
+ignoring_blocks,Residual,463.232,16.0,,

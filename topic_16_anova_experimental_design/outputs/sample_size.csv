@@ -1,0 +1,4 @@
+effect,cohen_f,n_per_group,n_total
+small,0.1,274,1096
+medium,0.25,45,180
+large,0.4,19,76
