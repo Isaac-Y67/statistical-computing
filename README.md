@@ -27,3 +27,4 @@ Group work repository. All implementations are in Python.
 | 15 | Data transformation and normalization | topic_15_data_transformation/ |
 | 16 | ANOVA and experimental design | topic_16_anova_experimental_design/ |
 | 17 | Chi-square and categorical data analysis | topic_17_chi_square/ |
+| 18 | Logistic regression | topic_18_logistic_regression/ |

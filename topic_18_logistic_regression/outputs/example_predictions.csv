@@ -1,0 +1,4 @@
+,tenure_months,monthly_charges,support_calls,month_to_month,log_odds,odds,probability
+High risk,3,90.0,4,1,1.28814,3.62602,0.78383
+Average,24,70.0,2,1,-0.16263,0.8499,0.45943
+Low risk,48,50.0,0,0,-2.82724,0.05918,0.05587
