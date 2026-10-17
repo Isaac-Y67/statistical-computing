@@ -1,0 +1,12 @@
+probability,value
+P(Churn),0.191
+P(Support call),0.284
+P(Premium),0.397
+P(Call AND Churn),0.112
+P(Churn | Call),0.3944
+P(Churn | No call),0.1103
+P(Churn | Premium),0.1713
+P(Churn | Basic),0.204
+P(Call | Churn) Bayes,0.5864
+P(Call | Churn) direct,0.5864
+Simulated P(Churn | Call),0.4046
