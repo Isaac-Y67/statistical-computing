@@ -1,0 +1,7 @@
+transformation,skewness,excess_kurtosis,shapiro_W,shapiro_p,outliers_1.5IQR
+Original,5.91031,53.18863,0.5834,0.0,26
+Square root,2.17213,11.27457,0.86886,0.0,13
+Log,0.19893,1.22814,0.98793,0.00038,7
+Box-Cox,-0.0155,0.9632,0.9905,0.0026,8
+Yeo-Johnson,-0.01551,0.96311,0.9905,0.00261,8
+Quantile to normal,0.01162,1.80959,0.98652,0.00014,4

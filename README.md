@@ -24,3 +24,4 @@ Group work repository. All implementations are in Python.
 | 12 | Random numbers and Monte Carlo methods | topic_12_random_monte_carlo/ |
 | 13 | Time-series analysis | topic_13_time_series/ |
 | 14 | Statistical data visualization | topic_14_statistical_visualization/ |
+| 15 | Data transformation and normalization | topic_15_data_transformation/ |

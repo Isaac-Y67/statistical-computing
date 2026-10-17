@@ -1,0 +1,21 @@
+method,variable,mean,sd,min,max
+Original,age,37.9504,10.3486,18.0,70.1
+Original,income,58559.528,48809.8346,6590.0,600000.0
+Original,spending_score,49.6908,22.7647,2.2,98.0
+Original,visits_per_month,3.87,2.0063,0.0,14.0
+Standardisation (z-score),age,-0.0,1.0,-1.9278,3.1067
+Standardisation (z-score),income,0.0,1.0,-1.0647,11.0929
+Standardisation (z-score),spending_score,-0.0,1.0,-2.0862,2.1221
+Standardisation (z-score),visits_per_month,-0.0,1.0,-1.929,5.0492
+"Min-max [0, 1]",age,0.3829,0.1986,0.0,1.0
+"Min-max [0, 1]",income,0.0876,0.0823,0.0,1.0
+"Min-max [0, 1]",spending_score,0.4957,0.2376,0.0,1.0
+"Min-max [0, 1]",visits_per_month,0.2764,0.1433,0.0,1.0
+"Robust (median, IQR)",age,-0.0072,0.7526,-1.4582,2.3309
+"Robust (median, IQR)",income,0.2574,1.3626,-1.1934,15.3726
+"Robust (median, IQR)",spending_score,-0.0231,0.6132,-1.3024,1.2781
+"Robust (median, IQR)",visits_per_month,-0.0433,0.6688,-1.3333,3.3333
+Max-abs,age,0.5414,0.1476,0.2568,1.0
+Max-abs,income,0.0976,0.0813,0.011,1.0
+Max-abs,spending_score,0.507,0.2323,0.0224,1.0
+Max-abs,visits_per_month,0.2764,0.1433,0.0,1.0

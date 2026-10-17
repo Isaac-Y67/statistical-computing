@@ -1,0 +1,6 @@
+,age,income,spending_score,visits_per_month
+Raw (no scaling),0.0,1.0,0.0,0.0
+Standardisation (z-score),0.25,0.25,0.25,0.25
+"Min-max [0, 1]",0.3202,0.0549,0.4583,0.1667
+"Robust (median, IQR)",0.1745,0.5719,0.1158,0.1378
+Max-abs,0.2118,0.0643,0.5244,0.1996
