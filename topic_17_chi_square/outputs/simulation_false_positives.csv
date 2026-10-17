@@ -1,0 +1,4 @@
+n,share_min_expected_below_5,chi_square_rejection,fisher_rejection
+20,0.99949,0.0435,0.01821
+60,0.39625,0.04975,0.033
+400,0.0,0.053,0.0445
