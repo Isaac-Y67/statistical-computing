@@ -17,3 +17,4 @@ Group work repository. All implementations are in Python.
 | 5 | Confidence intervals | topic_05_confidence_intervals/ |
 | 6 | Hypothesis testing | topic_06_hypothesis_testing/ |
 | 7 | Correlation and covariance | topic_07_correlation_covariance/ |
+| 8 | Linear regression and least squares | topic_08_linear_regression/ |

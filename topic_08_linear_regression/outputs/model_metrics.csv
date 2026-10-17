@@ -1,0 +1,10 @@
+metric,value
+simple_R2,0.6445
+multiple_R2,0.6947
+multiple_adj_R2,0.6884
+residual_SE,6.0138
+F_stat,110.9082
+F_p_value,0.0
+test_R2,0.6681
+test_RMSE,5.7448
+cv_R2_mean,0.6683
