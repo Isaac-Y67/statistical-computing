@@ -1,0 +1,4 @@
+method,mean,bias,sd,variance_reduction
+Simple Monte Carlo,0.74684304,1.891e-05,0.00620305,1.0
+Antithetic variates,0.74684031,1.618e-05,0.00124364,24.87827037
+Control variate,0.74683116,7.03e-06,0.00078699,62.12567436

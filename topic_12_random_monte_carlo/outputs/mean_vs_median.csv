@@ -1,0 +1,3 @@
+distribution,var_mean,var_median,var_mean_over_var_median
+Normal,0.0398,0.0624,0.638
+"t distribution, 3 df",0.1177,0.0751,1.5675

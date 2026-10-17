@@ -1,0 +1,34 @@
+experiment,quantity,value
+LCG uniformity,Own LCG K-S p,0.526958
+LCG uniformity,numpy generator K-S p,0.634279
+Inverse transform,mean,1.998814
+Inverse transform,K-S p,0.703845
+Box-Muller,mean,5e-06
+Box-Muller,sd,1.013389
+Box-Muller,K-S p,0.48939
+Acceptance-rejection,acceptance rate,0.66635
+Acceptance-rejection,K-S p,0.254085
+Pi,estimate N=100,3.08
+Pi,estimate N=1000,3.168
+Pi,estimate N=10000,3.1692
+Pi,estimate N=100000,3.14788
+Pi,estimate N=1000000,3.141972
+Integration,single-run estimate,0.736768
+Variance reduction,Simple Monte Carlo sd,0.006203
+Variance reduction,Antithetic variates sd,0.001244
+Variance reduction,Control variate sd,0.000787
+Importance sampling,naive sd,0.000361
+Importance sampling,IS sd,2.5e-05
+Variance estimator,"bias, divisor n",-0.40082
+Variance estimator,"bias, divisor n-1",-0.000911
+Mean vs median,Normal efficiency,0.638006
+Mean vs median,"t distribution, 3 df efficiency",1.567518
+Birthday,simulated k=10,0.11645
+Birthday,simulated k=15,0.25885
+Birthday,simulated k=20,0.41525
+Birthday,simulated k=23,0.50955
+Birthday,simulated k=25,0.57005
+Birthday,simulated k=30,0.7098
+Birthday,simulated k=40,0.89155
+Birthday,simulated k=50,0.9712
+Birthday,simulated k=60,0.99355

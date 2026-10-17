@@ -21,3 +21,4 @@ Group work repository. All implementations are in Python.
 | 9 | Matrix algebra in statistics | topic_09_matrix_algebra/ |
 | 10 | Eigenvalues, eigenvectors and PCA | topic_10_eigen_pca/ |
 | 11 | Numerical optimization | topic_11_numerical_optimization/ |
+| 12 | Random numbers and Monte Carlo methods | topic_12_random_monte_carlo/ |

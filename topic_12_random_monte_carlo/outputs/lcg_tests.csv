@@ -1,0 +1,3 @@
+generator,mean,variance,chi_square_p,ks_p,lag1_autocorr
+Own LCG,0.5016,0.0838,0.6743,0.527,-0.0037
+numpy generator,0.4971,0.0831,0.76,0.6343,0.0041
