@@ -12,3 +12,4 @@ Group work repository. All implementations are in Python.
 |-----|-------|--------|
 | 1 | Central tendency and dispersion | topic_01_central_tendency_dispersion/ |
 | 2 | Probability and conditional probability | topic_02_probability/ |
+| 3 | Probability distributions | topic_03_probability_distributions/ |

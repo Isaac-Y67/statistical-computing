@@ -1,0 +1,28 @@
+distribution,quantity,value
+Normal,mean,169.893
+Normal,sd,7.6707
+Normal,P(H < 165),0.2618
+Normal,P(H > 180),0.0938
+Normal,P(160 < H < 180),0.8076
+Normal,95th percentile,182.5102
+Binomial,p,0.1013
+Binomial,P(X = 0),0.1181
+Binomial,P(X <= 2),0.6695
+Binomial,P(X >= 4),0.1377
+Poisson,lambda,4.0
+Poisson,P(X = 0),0.0183
+Poisson,P(X <= 2),0.2381
+Poisson,P(X > 6),0.1107
+Exponential,mean (scale),4.5278
+Exponential,rate,0.2209
+Exponential,P(T > 10),0.1099
+Exponential,P(T <= 3),0.4845
+Exponential,median,3.1384
+KS test,Normal D,0.0313
+KS test,Normal p,0.7008
+KS test,Exponential D,0.0442
+KS test,Exponential p,0.2744
+AIC,gamma,2509.2284
+AIC,weibull_min,2510.6029
+AIC,expon,2512.2318
+AIC,lognorm,2576.031
