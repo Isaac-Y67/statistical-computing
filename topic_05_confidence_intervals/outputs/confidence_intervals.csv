@@ -1,0 +1,13 @@
+parameter,method,estimate,lower,upper
+Mean (courier A),"t, 90%",32.2325,30.9132,33.5518
+Mean (courier A),"t, 95%",32.2325,30.6487,33.8163
+Mean (courier A),"t, 99%",32.2325,30.1121,34.3529
+Mean (courier A),"z, 95%",32.2325,30.6978,33.7672
+Proportion satisfied,"Wald, 95%",0.7,0.6365,0.7635
+Proportion satisfied,"Wilson, 95%",0.7,0.6332,0.7593
+Variance (courier A),"chi-square, 95%",24.5253,16.4571,40.4361
+SD (courier A),"chi-square, 95%",4.9523,4.0567,6.3589
+Mean difference A - B,"Welch t, 95%",-2.865,-5.105,-0.625
+Coverage simulation,90%,0.901,,
+Coverage simulation,95%,0.95,,
+Coverage simulation,99%,0.9865,,
