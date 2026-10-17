@@ -8,4 +8,6 @@ Group work repository. All implementations are in Python.
 3. Run: pip install -r requirements.txt
 
 ## Topics
-(Topic table will be added as we complete each topic)
+| No. | Topic | Folder |
+|-----|-------|--------|
+| 1 | Central tendency and dispersion | topic_01_central_tendency_dispersion/ |
