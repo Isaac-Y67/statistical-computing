@@ -1,0 +1,7 @@
+test,statistic,p_value,decision
+One-sample t,-3.2477,0.0026,Reject H0
+Two-sample Welch t,4.8303,0.0,Reject H0
+Mann-Whitney U,1239.0,0.0,Reject H0
+Paired t,3.8751,0.0006,Reject H0
+One-proportion z,1.7889,0.0736,Fail to reject H0
+Two-proportion z,2.1189,0.0341,Reject H0

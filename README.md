@@ -15,3 +15,4 @@ Group work repository. All implementations are in Python.
 | 3 | Probability distributions | topic_03_probability_distributions/ |
 | 4 | Sampling distributions and CLT | topic_04_sampling_clt/ |
 | 5 | Confidence intervals | topic_05_confidence_intervals/ |
+| 6 | Hypothesis testing | topic_06_hypothesis_testing/ |
