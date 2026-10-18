@@ -30,3 +30,4 @@ Group work repository. All implementations are in Python.
 | 18 | Logistic regression | topic_18_logistic_regression/ |
 | 19 | Non-parametric statistical methods | topic_19_nonparametric/ |
 | 20 | Bootstrap and resampling methods | topic_20_bootstrap_resampling/ |
+| 21 | Multivariate statistical analysis | topic_21_multivariate/ |

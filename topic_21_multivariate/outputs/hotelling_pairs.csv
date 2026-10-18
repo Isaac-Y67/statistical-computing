@@ -1,0 +1,4 @@
+comparison,T2,F,df1,df2,p_value,variables_significant_alone,bonferroni_p
+Alpha vs Beta,57.29687717,11.07092203,5,114,1e-08,4,3e-08
+Alpha vs Gamma,118.86731409,22.96758272,5,114,0.0,4,0.0
+Beta vs Gamma,89.23430586,17.24188283,5,114,0.0,2,0.0
