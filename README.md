@@ -1,11 +1,28 @@
 # Statistical Computing and Reporting (BIT 4131)
 
-Group work repository. All implementations are in Python.
+Group work repository. All implementations are in Python. Each topic folder holds the
+code (`analysis.py`), the dataset, the saved outputs (tables and plots) and a `README.md`
+with the results and their interpretation.
 
 ## Setup
-1. Clone the repo
-2. Create a virtual environment
-3. Run: pip install -r requirements.txt
+1. Clone the repository.
+2. Create and activate a virtual environment:
+```
+   python -m venv .venv
+   .venv\Scripts\activate
+```
+3. Install the libraries:
+```
+   pip install -r requirements.txt
+```
+4. Run any topic, for example:
+```
+   python topic_01_central_tendency_dispersion\analysis.py
+```
+   Topic 23 is run with `python topic_23_reproducible_reporting\build_report.py`.
+
+All data are synthetic and generated with fixed random seeds, so every run reproduces
+the same results.
 
 ## Topics
 | No. | Topic | Folder |
@@ -33,3 +50,10 @@ Group work repository. All implementations are in Python.
 | 21 | Multivariate statistical analysis | topic_21_multivariate/ |
 | 22 | Missing-data analysis and imputation | topic_22_missing_data/ |
 | 23 | Statistical reporting and reproducible analysis | topic_23_reproducible_reporting/ |
+
+## Team
+1. OMBASA ISAAC OMOKE      BSCCS/2024/53672
+2. KENNEDY NJUGUNA         BSCCS/2024/56648
+3. BLESSLEY JOSEPH         BSCCS/2023/63927
+4. DENNIS MBOGO            BSCCS/2024/51424
+
