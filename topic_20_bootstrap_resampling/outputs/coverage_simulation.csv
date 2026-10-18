@@ -1,0 +1,4 @@
+n,coverage_t,coverage_bootstrap,width_t,width_bootstrap
+10,0.836,0.806,2.5059,1.9682
+20,0.872,0.852,1.6879,1.4912
+50,0.902,0.902,1.1269,1.0656

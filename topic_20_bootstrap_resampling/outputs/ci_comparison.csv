@@ -1,0 +1,10 @@
+statistic,method,lower,upper,width
+Mean,Percentile,35521.589,49236.144,13714.554
+Mean,Basic,34547.656,48262.211,13714.554
+Mean,Normal with bootstrap SE,35003.582,48780.218,13776.636
+Mean,BCa (scipy),36471.272,50276.216,13804.945
+Mean,Classical t,34811.799,48972.001,14160.202
+Median,Percentile,29719.0,46774.0,17055.0
+Median,Basic,26960.0,44015.0,17055.0
+Median,Normal with bootstrap SE,27449.473,46284.527,18835.055
+Median,BCa (scipy),29719.0,46774.0,17055.0

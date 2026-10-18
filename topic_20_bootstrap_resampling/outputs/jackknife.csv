@@ -1,0 +1,4 @@
+statistic,jackknife_se,jackknife_bias,bootstrap_se
+Mean,3500.3376,0.0,3514.4479
+Median,5720.4182,0.0,4804.8609
+Standard deviation,5278.9606,-629.6299,4463.1493

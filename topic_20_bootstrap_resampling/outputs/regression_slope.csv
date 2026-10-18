@@ -1,0 +1,4 @@
+method,se_slope,lower_95,upper_95
+Classical OLS (t interval),0.1591,0.96322,1.60015
+Residual bootstrap,0.15729,0.97283,1.59156
+Pairs bootstrap,0.15802,0.99304,1.60957
