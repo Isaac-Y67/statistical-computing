@@ -1,0 +1,4 @@
+arm,n,age_mean,age_sd,female_pct,baseline_mean,baseline_sd,missing_outcome_n,missing_outcome_pct
+Control,80,55.538,9.114,52.5,150.219,13.241,2,2.5
+Drug A,80,54.45,9.837,52.5,150.853,11.708,8,10.0
+Drug B,80,54.45,10.389,46.25,149.029,12.987,14,17.5

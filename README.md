@@ -32,3 +32,4 @@ Group work repository. All implementations are in Python.
 | 20 | Bootstrap and resampling methods | topic_20_bootstrap_resampling/ |
 | 21 | Multivariate statistical analysis | topic_21_multivariate/ |
 | 22 | Missing-data analysis and imputation | topic_22_missing_data/ |
+| 23 | Statistical reporting and reproducible analysis | topic_23_reproducible_reporting/ |

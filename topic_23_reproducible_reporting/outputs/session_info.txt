@@ -1,0 +1,8 @@
+python: 3.13.14
+platform: Windows-11-10.0.26300-SP0
+numpy: 2.5.4
+pandas: 3.0.6
+scipy: 1.18.1
+statsmodels: 0.15.0
+matplotlib: 3.11.2
+random seed: 2024

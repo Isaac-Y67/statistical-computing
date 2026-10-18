@@ -1,0 +1,4 @@
+,Drug A: estimate,Drug A: SE,Drug B: estimate,Drug B: SE
+Adjusted (primary),-4.3774,1.4709,-9.6341,1.5063
+Unadjusted,-4.7326,1.5928,-9.359,1.63
+"Adjusted, robust (HC3) errors",-4.3774,1.5194,-9.6341,1.4704
