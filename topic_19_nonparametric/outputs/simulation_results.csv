@@ -1,0 +1,4 @@
+distribution,shift,type1_t,type1_mw,power_t,power_mw
+Normal,0.8,0.05233,0.052,0.703,0.67233
+"Heavy-tailed (t, 3 df)",1.0,0.039,0.04733,0.51933,0.66367
+Skewed (lognormal),1.0,0.03767,0.04667,0.45433,0.847

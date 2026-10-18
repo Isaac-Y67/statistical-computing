@@ -1,0 +1,4 @@
+comparison,median_difference,unadjusted_p,bonferroni_p,significant
+Medium vs Low,11.1,0.026526,0.079579,False
+High vs Low,28.6,0.001285,0.003856,True
+High vs Medium,17.5,0.147828,0.443483,False

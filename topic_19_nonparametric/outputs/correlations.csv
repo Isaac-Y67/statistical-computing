@@ -1,0 +1,3 @@
+data,pearson_r,pearson_p,spearman_rho,spearman_p,kendall_tau,kendall_p
+Without outlier,0.89779,0.0,0.98877,0.0,0.93446,0.0
+With one outlier,0.7331,0.0,0.89831,0.0,0.87322,0.0

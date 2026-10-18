@@ -1,0 +1,12 @@
+test,statistic,p_value
+Two-sample Welch t,3.315662,0.00185
+Mann-Whitney U,473.0,0.001905
+Permutation test (means),125.52,0.0022
+Kolmogorov-Smirnov 2-sample,0.4,0.035611
+Wilcoxon signed-rank,5.0,0.001332
+Sign test,14.0,0.000977
+Paired t,-3.996889,0.000772
+One-way ANOVA,5.602281,0.006008
+Kruskal-Wallis,11.758438,0.002797
+Friedman,8.666667,0.013124
+Repeated-measures ANOVA,7.364626,0.003561
