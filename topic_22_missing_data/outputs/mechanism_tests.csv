@@ -1,0 +1,10 @@
+target,other,mean_when_missing,mean_when_observed,n_missing,p_value
+education_years,age,44.08636,44.85115,140,0.4559
+education_years,income_k,67.88505,67.40311,109,0.71065
+education_years,health_score,62.07764,62.00344,110,0.93142
+income_k,age,50.46598,43.27766,204,0.0
+income_k,education_years,13.90815,13.66247,173,0.34423
+income_k,health_score,61.31943,62.18612,159,0.20944
+health_score,age,48.40846,43.82225,201,0.0
+health_score,education_years,13.26725,13.82225,171,0.04467
+health_score,income_k,64.7525,68.13128,156,0.00483

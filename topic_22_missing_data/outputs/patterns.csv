@@ -1,0 +1,9 @@
+,rows,percent
+complete,549,54.9
+income_k,140,14.0
+health_score,138,13.8
+education_years,91,9.1
+income_k+health_score,33,3.3
+education_years+income_k,19,1.9
+education_years+health_score,18,1.8
+education_years+income_k+health_score,12,1.2

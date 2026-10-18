@@ -1,0 +1,6 @@
+,mean_income,sd_income,mean_health,sd_health,corr_income_health,slope_income,slope_age
+Complete cases,0.37199,0.29201,2.09108,0.71168,0.0305,0.0302,0.0434
+Mean imputation,0.49526,1.33879,1.81666,1.58251,0.04733,0.06809,0.10984
+Regression imputation,0.15924,0.69929,1.5322,1.40394,0.03731,0.01705,0.03393
+Stochastic regression,0.21562,0.18041,1.5537,0.69605,0.02847,0.03138,0.04481
+kNN (k = 5),0.33735,0.96803,1.62299,1.3252,0.05898,0.05138,0.05328

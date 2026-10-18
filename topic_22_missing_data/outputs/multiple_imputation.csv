@@ -1,0 +1,13 @@
+parameter,method,estimate,lower_95,upper_95,population_value,interval_contains_population_value
+mean_income,Full data,68.15535,67.3438,68.9669,68.5,True
+mean_income,Complete cases,68.09528,67.02344,69.16713,68.5,True
+mean_income,Multiple imputation (m = 20),68.0511,67.20443,68.89777,68.5,True
+mean_health,Full data,60.1961,59.65781,60.73439,60.2,True
+mean_health,Complete cases,62.15454,61.48278,62.82629,60.2,False
+mean_health,Multiple imputation (m = 20),61.67477,61.1287,62.22084,60.2,False
+slope_income,Full data,0.21188,0.17311,0.25066,0.2,True
+slope_income,Complete cases,0.16194,0.11042,0.21346,0.2,True
+slope_income,Multiple imputation (m = 20),0.17617,0.13605,0.21628,0.2,True
+slope_age,Full data,-0.30023,-0.34384,-0.25663,-0.3,True
+slope_age,Complete cases,-0.25078,-0.30809,-0.19347,-0.3,True
+slope_age,Multiple imputation (m = 20),-0.25127,-0.30043,-0.20211,-0.3,True

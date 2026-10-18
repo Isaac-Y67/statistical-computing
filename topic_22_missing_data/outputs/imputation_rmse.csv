@@ -1,0 +1,5 @@
+,education_years,income_k,health_score
+Mean imputation,3.18355,13.71905,11.70118
+Regression imputation,2.80389,10.55529,10.12853
+Stochastic regression,3.9232,13.43277,12.82555
+kNN (k = 5),3.28876,13.10545,11.45532
